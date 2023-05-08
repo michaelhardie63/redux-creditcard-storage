@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+
+form {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 3px solid #dd0822;
+  border-radius: 10px;
+  padding: 20px 50px;
+}
+
+.credit-card {
+  background: #dd0822;
+  width: 200px;
+  height:115px;
+  border-radius:10px;
+  margin-bottom: 30px;
+}
+
+.credit-card:hover {
+  -webkit-box-shadow: 1px 5px 15px 5px rgba(0,0,0,0.32); 
+box-shadow: 1px 5px 15px 5px rgba(0,0,0,0.32);
+transition: box-shadow 0.2s ease-in-out;
+}
+
+.credit-card-inner {
+  height: 115px;
+  padding-left: 10px;
+}
+.credit-card-inner span {
+  color:#fff;
+}
+
+.delete {
+  margin-left:140px;
+  margin-bottom: 25px;
+}
+
+.number-display {
+  font-size: 1rem;
+}
+
+.meta-display {
+  font-size: 0.8rem;
+  padding-right: 30px;
+}
+
+.cardDisplay {
+  width: 400px;
+}
