@@ -1,5 +1,7 @@
 # Credit Card Storage React Redux Application
 
+![Splash image](Credit_Card_Storage.png)
+
 This React app allows you to securely store and manage your credit card information with ease. Powered by React and Redux which ensures a seamless and intuitive user experience.
 
 ## Features
