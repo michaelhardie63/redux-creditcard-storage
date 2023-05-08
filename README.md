@@ -1,14 +1,14 @@
-#Credit Card Storage React Redux Application
+# Credit Card Storage React Redux Application
 
 This React app allows you to securely store and manage your credit card information with ease. Powered by React and Redux which ensures a seamless and intuitive user experience.
 
-##Features
+## Features
 * Securely store and manage your credit card details in one central location.
 * Easily add, edit, and delete credit card information.
 * Simple and intuitive user design using MUI.
 * Seamless integration with React and Redux for efficient state management.
 
-##Getting Started
+## Getting Started
 To run this Credit Card Storage Web Application locally, follow these steps:
 
 1. Clone the repository:
@@ -24,10 +24,10 @@ npm start
 4. Open the application in your browser:
 http://localhost:3000/
 
-##Technologies Used
+## Technologies Used
 This web application utilizes the following technologies:
 * React
 * Redux
 * HTML/CSS
 
-##Thanks for view my web application!
+## Thanks for view my web application!
