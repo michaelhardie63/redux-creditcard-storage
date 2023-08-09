@@ -32,4 +32,4 @@ This web application utilizes the following technologies:
 * Redux
 * HTML/CSS
 
-## Thanks for view my web application!
+## Thanks for viewing my app!
